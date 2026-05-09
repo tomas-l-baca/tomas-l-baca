@@ -1,48 +1,85 @@
 # Tomas Baca
 
-**AI Systems Engineer | LLM Workflow Design | Automation Systems**
+**AI-Assisted Application Builder | Workflow Automation | LLM Systems**
 
-I design and build structured AI systems that replace fragile workflows with reliable, controlled execution.
+I build practical AI-assisted applications and automation workflows designed to make complex operational work more reliable, structured, and repeatable.
 
----
+My current focus is learning and building at the intersection of:
 
-## What I Build
-
-- LLM-driven workflow systems with validation and failure handling  
-- AI-assisted engineering tools for real-world technical tasks  
-- Automation systems that convert manual processes into repeatable execution  
-- Data transformation pipelines for operational decision support  
-
----
-
-## Current Focus
-
-- LLM workflow orchestration and control  
-- Prompt architecture and evaluation  
-- AI-assisted application development  
-- Automation systems and internal tools  
+- AI-assisted software development
+- Workflow automation
+- LLM-integrated applications
+- Frontend and API-based systems
+- Reliability-focused execution design
 
 ---
 
-## Featured Work (In Progress)
+## Featured Project
 
 ### Excel AI Governance Assistant
-Structured LLM system for controlled spreadsheet engineering, validation, and automation.
 
-### Prompt Evaluation Framework
-System for analyzing LLM behavior, identifying failure modes, and improving reliability.
+AI-assisted web application designed to support spreadsheet engineering, workflow control, and structured automation.
 
-### AI-Assisted Development Workflow
-Controlled workflow for using AI in software development with reduced error and drift.
+Current repository includes:
+
+- Sanitized frontend and backend implementation code
+- API integration structure
+- Session and request handling
+- Error handling and rate limiting
+- Architecture documentation
+- Public-safe workflow and implementation summaries
+- UI screenshots and technical documentation
+
+Repository:
+
+- `excel-ai-governance-assistant`
+
+---
+
+## Technical Areas
+
+### Application Development
+- JavaScript
+- HTML
+- CSS
+- Google Apps Script
+- Frontend interaction design
+- API integration
+
+### AI Workflow Development
+- LLM-assisted workflows
+- Structured execution design
+- Prompt orchestration concepts
+- Reliability-focused workflow design
+- AI-assisted engineering support
+
+### Automation and Operations
+- Workflow automation
+- Spreadsheet engineering
+- Data transformation
+- Operational tooling
+- Process standardization
+
+---
+
+## Current Development Path
+
+This GitHub is being built as a public technical portfolio documenting:
+
+- self-directed software development
+- AI-assisted application building
+- workflow automation projects
+- implementation learning
+- structured engineering practices
 
 ---
 
 ## Approach
 
-I focus on building systems that work in real environments—where reliability, clarity, and execution matter more than theory.
+I focus on building systems that solve practical operational problems while improving reliability, clarity, and execution consistency.
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/tomas-l-baca/
+- LinkedIn: www.linkedin.com/in/tomas-l-baca/
